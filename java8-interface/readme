@@ -1,0 +1,7 @@
+在Java8中Interface支持静态成员，成员默认是public final static的，可以在类外直接调用。
+static函数
+在Java8中允许Interface定义static方法，这允许API设计者在接口中定义像getInstance一样的静态工具方法，这样就能够使得API简洁而精练，
+
+default函数
+
+
