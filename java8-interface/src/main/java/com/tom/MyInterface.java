@@ -8,5 +8,6 @@ public interface MyInterface {
   void  test();
   default void doSomething(){
     System.out.println("do something");
+    
   }
 }
