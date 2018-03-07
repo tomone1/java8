@@ -1,0 +1,9 @@
+https://mp.weixin.qq.com/s/SwmHZA-lEUOIf5rNtHpGlQ
+引用
+对象的引用 :: 实例方法名
+类名 :: 静态方法名
+
+构造器引用 类名 :: new
+
+三、数组引用
+类型[] :: new
