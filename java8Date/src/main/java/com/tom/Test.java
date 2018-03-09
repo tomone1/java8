@@ -33,6 +33,7 @@ public class Test {
     Date date2=Date.from(zdt.toInstant());
     System.out.println("LocalDate="+date);
     System.out.println("Date="+date2);
+
     /*
     *  结果 LocalDate=2018-03-08
 Date=Thu Mar 08 00:00:00 CST 2018
