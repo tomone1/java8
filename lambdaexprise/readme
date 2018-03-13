@@ -1,0 +1,7 @@
+第一個lambda表达式
+
+练习 1 画出 以下接口图示
+public interface Function<T,R>{
+    R Apply(T,R)
+}
+ ->T->R
